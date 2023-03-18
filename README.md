@@ -11,8 +11,7 @@ My expertise lies in the following technologies:
 - [ExpressJS](https://expressjs.com/) / [NestJS](https://nestjs.com/)
 - [KNEX](https://knexjs.org/) 🙂 / [TypeORM](https://typeorm.io/) / [MikroORM](https://mikro-orm.io/) (Not very popular, but I prefer it) 
 - [PostgreSQL](https://www.postgresql.org/) and any **SQL**, I guess
-- [Redis](https://redis.io/)
-- [MongoDB](https://www.mongodb.com/)
+- [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/)
 
 
 ### Software Design Principles
