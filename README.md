@@ -20,9 +20,6 @@ My expertise lies in the following technologies:
 - Rich Domain Model / Anemic Domain Model architectures
 - OOP, bla-bla P, etc..
 
-### Currently not seeking new opportunities
-
-Please note that at the moment I am not actively seeking new job opportunities. 
 
 ### Contact me
 
