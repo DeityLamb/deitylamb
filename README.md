@@ -1,15 +1,15 @@
 
-## Backend Software Engineer on TypeScript / JavaScript from Kyiv
+## Backend Software Engineer from Kyiv
 
-Hello! I'm Alexey, a software engineer based in Kyiv with experience in building backend systems.<br>
+Hey! I'm Alexey, a software engineer based in Kyiv with experience in building backend systems.<br>
 I speak Ukrainian, English, and unfortunately, russian too.
 
 My expertise lies in the following technologies:
 
-### 💻 Technologies
+###  Technologies
 
 - [ExpressJS](https://expressjs.com/) / [NestJS](https://nestjs.com/)
-- [KNEX](https://knexjs.org/) 🙂 / [TypeORM](https://typeorm.io/) / [MikroORM](https://mikro-orm.io/) (Not most popular, but I prefer it) 
+- [KNEX](https://knexjs.org/)  / [TypeORM](https://typeorm.io/) / [MikroORM](https://mikro-orm.io/) (Not most popular, but I prefer it) 
 - [PostgreSQL](https://www.postgresql.org/) and any **SQL**, I guess
 - [Redis](https://redis.io/), [MongoDB](https://www.mongodb.com/)
 
