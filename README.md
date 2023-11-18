@@ -1,7 +1,7 @@
 
 ## Hey there 
 
-Hey! I'm Alexey, a software engineer based in Kyiv with experience in JavaScript / TypeScript.<br>
+Hey! I'm Oleksii, a software engineer based in Kyiv with experience in JavaScript / TypeScript.<br>
 I speak Ukrainian, English, and unfortunately, russian too.
 
 ### Contact me
