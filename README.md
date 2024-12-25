@@ -1,11 +1,19 @@
-## Hey threre :wave:
+## Hey there :wave:
 
-Hi, I'm Oleksii!  
-I'm a software engineer from Kyiv with expertise in JavaScript and TypeScript.
+Hello there, <br>
+You can call me Oleksii.
 
-### Contact me
+I'm Backend Software Engineer located in Kyiv 🟨🟦 <br><br>
+Although my primary tool is NodeJS and everything related, <br>
+which I've been using for about 6 years. <br><br>
 
-You can reach me through the following links:
+Recently, I've been fascinated by Java and the Rust ecosystem 😸
 
-- [Telegram](https://t.me/deitylamb)
-- [Discord](https://discord.com/users/779826024585101342)
+
+### Contact me :key:
+
+Feel free to reach out to me through the following links:
+
+- :iphone: [Telegram](https://t.me/deitylamb)
+- :satellite: [Discord](https://discord.com/users/779826024585101342)
+- :email: [Email](mailto:deitylamb@gmail.com)
